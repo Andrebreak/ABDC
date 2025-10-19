@@ -44,10 +44,6 @@ export default function membres(){
                 </ul>
             </section>
 
-            <section>
-               
-            </section>
-
         </main>
         <footer>
             <Footer/>
